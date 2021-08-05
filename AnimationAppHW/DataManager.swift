@@ -22,4 +22,5 @@ class DataManager {
         .easeInCubic,
         .linear
     ]
+    private init() {}
 }
